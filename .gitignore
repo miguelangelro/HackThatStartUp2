@@ -1,0 +1,4 @@
+node_modules
+dist
+# fichero que genera el mac
+.DS_Store 
