@@ -15,12 +15,12 @@ En el siguiente enlace podeis encontrar detalladamente lo que se pide.
 
 Pasos para instalar el proyecto:
 
-Git clone de este repositorio --> git clone https://github.com/miguelangelro/HackThatStartUp2.git
-cd HackThatStartUp2
-npm install
-Arrancar la base de datos. (Mongodb)
-<b>npm start</b> para arrancar la aplicación 
-Para atacar a la API hace falta usar Insomnia u otra interfaz de Restclient.
+- Git clone de este repositorio --> git clone https://github.com/miguelangelro/HackThatStartUp2.git
+- cd HackThatStartUp2
+- npm install
+- Arrancar la base de datos. (Mongodb)
+- <b>npm start</b> para arrancar la aplicación 
+- Para atacar a la API hace falta usar Insomnia u otra interfaz de Restclient.
 
 ## Explicación
 
