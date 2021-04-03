@@ -32,9 +32,9 @@ Un usuario autenticado puede introducir a mas de un usuario a la vez en la base 
 
 He hecho testing con Insomnia, resultados en la carpeta testing. Mas adelante actualizare con test unitario.
 
-## 
+
 </br>
 
-## Dependecias
+
 
 - [Miguel Ángel Rincón](https://github.com/miguelangelro)
